@@ -31,7 +31,7 @@ $ciftlik_sayi= 147;
 krsort($agil);
 
 
-//Örnek 1 İçin Yazdırma İşlemleri
+//Örnek 2 İçin Yazdırma İşlemleri
 echo '<h3>Örnek 2</h3>';
 echo 'Toplam Ağıl: '.count($agil).'<br>';
 echo 'Toplam Kapasite: '.array_sum($agil).'<br>';
