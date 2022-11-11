@@ -77,7 +77,7 @@
         </tr>
 
         <tr>
-            <td></td>
+            <td>Genel Toplam</td>
             <td><form action="config.php" method="POST"><button type="submit" name="temizle">Sepeti Temizle</button></form></td>
             <td><?= ($_SESSION['sepet']['adet3'] * 20) + ( $_SESSION['sepet']['adet2'] * 20) + ($_SESSION['sepet']['adet1'] * 10)?> TL</td>
         </tr>
