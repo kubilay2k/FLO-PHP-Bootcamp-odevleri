@@ -27,7 +27,7 @@
 
             <?php
                 $baglanti = new PDO('mysql:host=localhost;dbname=bootcamp;charset:utf8', 'root', 'Kubilay.123');
-                $veriler = $baglanti->query('SELECT * from odev3',PDO::FETCH_OBJ);
+                $veriler = $baglanti->query('SELECT * from odev4',PDO::FETCH_OBJ);
                 $toplam = $veriler->rowCount();
                 foreach ($veriler as $veri) {
                     echo "            
