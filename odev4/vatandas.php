@@ -37,7 +37,7 @@
         public function kaydet()
         { 
             $baglanti = new PDO('mysql:host=localhost;dbname=bootcamp;charset:utf8', 'root', 'Kubilay.123');
-            $sorgu = $baglanti->prepare("INSERT INTO odev3 VALUES(?,?,?,?)");
+            $sorgu = $baglanti->prepare("INSERT INTO odev4 VALUES(?,?,?,?)");
             $sorgu->execute(array(NULL, $this->adsoyad, $this->tcno,$this->durum));
             $baglanti = null;
             return true;
