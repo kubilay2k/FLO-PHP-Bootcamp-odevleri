@@ -19,7 +19,7 @@
                 $dogruluk = true;
             }
 
-            if(strlen($tcno))
+            if(strlen($tcno) == 11)
             {
                 if (is_numeric($tcno)) 
                 {
