@@ -14,9 +14,12 @@
             $toplam2 = $tcno[1] + $tcno[3] + $tcno[5] + $tcno[7];
             $toplam3 = $tcno[0] + $tcno[1] + $tcno[2] + $tcno[3] + $tcno[4] + $tcno[5] + $tcno[6] + $tcno[7] + $tcno[8] + $tcno[9];
 
-            if (($toplam1 - $toplam2) % 10 == $tcno[9] && $toplam3 % 10 == $tcno[10]) 
+            if (($toplam1 - $toplam2) % 10 == $tcno[9]) 
             {
-                $dogruluk = true;
+                if($toplam3 % 10 == $tcno[10])
+                {
+                    $dogruluk = true;   
+                }
             }
 
             if(strlen($tcno) == 11)
