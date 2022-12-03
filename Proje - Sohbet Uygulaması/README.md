@@ -36,7 +36,7 @@
   <p align="center">
     FLO PHP DEVELOPER BOOTCAMP PROJESİ
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Anlatın Videosu»</strong></a>
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Anlatım Videosu»</strong></a>
     <br />
     <br />
   </p>
@@ -46,10 +46,10 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Proje Hakkında</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -96,7 +96,7 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
+* [![PHP][php.net]][PHP-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
