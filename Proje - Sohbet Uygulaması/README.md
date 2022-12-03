@@ -74,8 +74,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<img width="100" alt="Ekran Resmi 2022-12-03 14 50 49" src="https://user-images.githubusercontent.com/80216892/205439561-10b3a6d8-a367-4d63-97a4-48d2b4e19da0.png">
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
