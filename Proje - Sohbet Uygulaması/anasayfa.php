@@ -49,7 +49,7 @@ $kullanici_adi = $_SESSION['k_adi'];
                                 <p class="text-muted"><?= $son_mesaj == false ? 'Sohbete başla' : ''.$son_mesaj->mesaj.' '.date('D H:i:s', $son_mesaj->zaman);?></p>
                             </div>
                             <div class="col-md-3 col-sm-3">
-                                <a href="sohbet.php?id=<?=$kullanici->id?>" class="btn btn-primary pull-right">Sohbet Et</a>
+                                <a href="sohbet.php?id=<?=$kullanici->id?>" class="btn btn-primary pull-right">Sohbet</a>
                             </div>
                             </div>
                         </div>
