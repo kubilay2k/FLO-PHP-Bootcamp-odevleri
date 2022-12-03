@@ -36,7 +36,7 @@
   <p align="center">
     FLO PHP DEVELOPER BOOTCAMP PROJESİ
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Anlatım Videosu»</strong></a>
+    <a href="https://youtu.be/Y3-J_OubFVs"><strong>Anlatım Videosu»</strong></a>
     <br />
     <br />
   </p>
