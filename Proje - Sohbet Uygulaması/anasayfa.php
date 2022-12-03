@@ -40,7 +40,7 @@ $kullanici_adi = $_SESSION['k_adi'];
                         <div class="nearby-user">
                             <div class="row">
                             <div class="col-md-2 col-sm-2">
-                                <img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="user" class="profile-photo-lg">
+                                <img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460__340.png" alt="user" class="profile-photo-lg">
                             </div>
                             <div class="col-md-7 col-sm-7">
                                 <h5><a href="#" class="profile-link"><?=$kullanici->adi ?></a></h5>
