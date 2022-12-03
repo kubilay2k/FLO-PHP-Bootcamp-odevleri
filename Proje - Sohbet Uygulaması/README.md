@@ -19,7 +19,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-![flo-logo](https://user-images.githubusercontent.com/80216892/205439060-dd75bc82-31da-4496-ba64-0be1a4387e32.svg)
+
 
 
 
@@ -27,7 +27,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="[images/logo.png](https://user-images.githubusercontent.com/80216892/205439060-dd75bc82-31da-4496-ba64-0be1a4387e32.svg)" alt="Logo" width="80" height="80">
   </a>
   
 
