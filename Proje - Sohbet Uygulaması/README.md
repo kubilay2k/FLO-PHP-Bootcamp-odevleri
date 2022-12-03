@@ -46,10 +46,10 @@
 ## Proje Hakkında
 <img width="800" alt="Ekran Resmi 2022-12-03 14 50 49" src="https://user-images.githubusercontent.com/80216892/205439561-10b3a6d8-a367-4d63-97a4-48d2b4e19da0.png">
 
-Kullanıcılar kayıt olup giriş yaptıktan sonra diğer kullanıcılardan istediğini seçerek sohbet edebileceği bir sohbet uygulaması. Bununla birlikte insanların size mesaj gönderebilmesini açıp kapatabildiğiniz, kapalı olsa bile geçmiş mesajları okuyabileceğiniz özellikleri mevcutç
+Kullanıcılar kayıt olup giriş yaptıktan sonra diğer kullanıcılardan istediğini seçerek sohbet edebileceği bir sohbet uygulaması. Bununla birlikte insanların size mesaj gönderebilmesini açıp kapatabildiğiniz, kapalı olsa bile geçmiş mesajları okuyabileceğiniz özellikleri mevcut.
 
-### Uygulamanın Dili
-Uygulama genel olarak PHP dili kullanılarak geliştirilmiştir.
+### Kullanılan Diller
+Uygulama genel olarak PHP dili kullanılarak geliştirilmiştir. Ek olarak Html, css ve javascript de kullanılmıştır.
 
 ### Yardımcı Kütüphaneler
 
